@@ -1,5 +1,7 @@
 # Advertisement-and-Marketing-models-in-R
 
+## Business Understanding
+
 ### Problem Definition
 
 *Kira Plastinina* (Links to an external site.) is a Russian brand that is sold through a defunct chain of retail stores in Russia, Ukraine, Kazakhstan, Belarus, China, Philippines, and Armenia. 
@@ -14,7 +16,7 @@ Upon implementation, provide comparisons between K-Means clustering vs Hierarchi
 
 Your findings should help inform the team in formulating the marketing and sales strategies of the brand. 
 
-### Markdown Sections. 
+### Markdown Workflow Sections. 
 
 1.Problem Definition
 
@@ -33,7 +35,7 @@ Your findings should help inform the team in formulating the marketing and sales
 8.Follow up Questions
 
 
-# Data Sourcing
+# Data Understanding
 
 The dataset consists of 10 numerical and 8 categorical attributes.
 

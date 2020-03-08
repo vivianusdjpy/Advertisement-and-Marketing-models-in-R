@@ -67,3 +67,7 @@ The value of this attribute is determined by considering the dynamics of e-comme
 
 #### Type of visit, Operating system, Browser and region(location)
 The dataset also includes the operating system, browser, region, traffic type, visitor type as returning or new visitor, a Boolean value indicating whether the date of the visit is weekend, and month of the year.
+
+### Conclusion
+
+
